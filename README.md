@@ -27,6 +27,7 @@ Extras:
 - Como Criar Seu Próprio ChatGPT com Memória em Menos de 20 Linhas de Python usando LangChain - [Clique aqui e acesse o video do youtube](https://youtu.be/SR4K7Tzc9NA?si=BSNcM0TgXx3-IFJl)
 - Como Utilizar APIs Gratuitas para fazer o curso da LangChain - [Clique aqui e acesse o video do youtube](https://youtu.be/tGAiSM45kVY)
 - Ollama - Como utilizar modelos rodando localmente integrados ao LangChain - [Clique aqui e acesse o video do youtube](https://youtu.be/LO71JhU_mK0)
+- QDRANT: Seu PRÓPRIO Banco Vetorial rodando LOCALMENTE! [Clique aqui e acesse o video do youtube](https://youtu.be/xLvmhrEOnAo)
 - Como usar o PostgreSQL para armazenamento de memória - Em Breve!
 - Como conectar seu chatbot ao whatsapp usando EvolutionAPI - Em Breve!
 
